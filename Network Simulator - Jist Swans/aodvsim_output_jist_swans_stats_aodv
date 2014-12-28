@@ -1,0 +1,34 @@
+-------------
+Packet stats:
+-------------
+Rreq packets sent = 31902
+Rreq packets recv = 108450
+Rrep packets sent = 3344
+Rrep packets recv = 851
+Rerr packets sent = 16834
+Rerr packets recv = 449
+Hello packets sent = 24
+Hello packets recv = 0
+Total aodv packets sent = 52104
+Total aodv packets recv = 109750
+Non-hello packets sent = 52080
+Non-hello packets recv = 109750
+--------------
+Overall stats:
+--------------
+Messages to deliver = 7500
+Route requests      = 383
+Route replies       = 2795
+Routes added        = 326
+
+freemem:  5825824
+maxmem:   66650112
+totalmem: 11345920
+used:     5520096
+start time  : Thu Jan 10 14:29:49 GMT 2013
+end time    : Thu Jan 10 14:34:17 GMT 2013
+elapsed time: 268004
+50	31902	108450	3344	851	16834	449	24	0	52104	109750	52080	109750	5520096	268004
+Average density = 1.1111111111111112E-4/m^2
+Average sensing = 37.3
+Average receive = 23.6

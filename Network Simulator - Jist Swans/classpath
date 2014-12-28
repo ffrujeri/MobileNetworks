@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/bcel.jar"/>
+	<classpathentry kind="lib" path="libs/bsh.jar"/>
+	<classpathentry kind="lib" path="libs/checkstyle-all.jar"/>
+	<classpathentry kind="lib" path="libs/jargs.jar"/>
+	<classpathentry kind="lib" path="libs/jython.jar"/>
+	<classpathentry kind="lib" path="libs/log4j.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/colt.jar"/>
+	<classpathentry kind="lib" path="libs/optimization.jar"/>
+	<classpathentry kind="lib" path="libs/ssj.jar"/>
+	<classpathentry kind="output" path="src"/>
+</classpath>
